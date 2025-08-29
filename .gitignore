@@ -1,0 +1,6 @@
+node_modules/
+images/
+watermarked/
+
+.DS_Store
+Mystuff.md
