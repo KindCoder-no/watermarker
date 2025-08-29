@@ -1,0 +1,16 @@
+{
+  "name": "watermarker",
+  "version": "1.0.0",
+  "main": "watermark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sharp": "^0.34.3",
+    "yargs": "^18.0.0"
+  }
+}
