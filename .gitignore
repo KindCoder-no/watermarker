@@ -1,5 +1,7 @@
 node_modules/
 images/
+media/
+wm/
 watermarked/
 
 .DS_Store

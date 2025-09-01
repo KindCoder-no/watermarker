@@ -11,6 +11,6 @@
   "description": "",
   "dependencies": {
     "sharp": "^0.34.3",
-    "yargs": "^18.0.0"
+    "yargs": "^17.7.2"
   }
 }
